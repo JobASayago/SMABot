@@ -1,0 +1,2 @@
+# SMABot
+bot
